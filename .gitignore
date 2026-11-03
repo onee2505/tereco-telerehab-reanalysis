@@ -1,0 +1,9 @@
+# R session files
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+Rplots.pdf
+
+# macOS
+.DS_Store
