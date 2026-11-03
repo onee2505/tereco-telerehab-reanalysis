@@ -6,7 +6,7 @@
 ![Data](https://img.shields.io/badge/data-public%20(Dryad)-2E8B57)
 ![Licence](https://img.shields.io/badge/code-MIT-lightgrey)
 
-**Author:** Nurjahan Sultana  
+**Project Done by:** Nurjahan Sultana  
 **Contact:** [nurjahan.sultana@stu.mmu.ac.uk](mailto:nurjahan.sultana@stu.mmu.ac.uk)  
 **Date:** October 2023  
 **Tools:** R (`dplyr`, `tidyr`, `ggplot2`)
